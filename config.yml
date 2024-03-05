@@ -1,0 +1,13 @@
+app:
+  id: wx895d89c49c4de3f1
+  secret: a253372bb26d847fb22d0c4fb69fc8ba
+
+msg:
+  - template:
+      id: JxGTWXa85jwVVDETvGqMyLJ23MHbjdep1SdfWipFvnw
+      user_id:
+          - oil05652esA7qFKzD7hGlovxNmmY
+      other:
+        - '101060201'
+        - '2023-07-08'
+        - '04-22'
